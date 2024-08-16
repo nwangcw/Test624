@@ -59,4 +59,4 @@ Repo for students to practice creating a pull request after forking a repo
 
     m. Congratulations, your changes are now part of the original repository!
 
-7.  optional-gropu601.xlsx:  I will use it later to merge your group's details (name, UIN and team lead) 
+7.  optional: gropu601.csv:  I will use it later to merge your group's details (name, UIN and team lead) 
