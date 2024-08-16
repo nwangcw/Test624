@@ -58,3 +58,5 @@ Repo for students to practice creating a pull request after forking a repo
     l. If there are no conflicts and your changes are approved, the repository owner or collaborators can merge your pull request by clicking the "Merge Pull Request" button.
 
     m. Congratulations, your changes are now part of the original repository!
+
+7.  optional-gropu601.xlsx:  I will use it later to merge your group's details (name, UIN and team lead) 
